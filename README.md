@@ -1,17 +1,26 @@
-# age_of_flutter
+# 🏰 Age of Flutter
 
-A new Flutter project.
+> Um aplicativo gamificado projetado para transformar o aprendizado de desenvolvimento mobile em uma jornada épica.
 
-## Getting Started
+## 📜 Sobre o Projeto
 
-This project is a starting point for a Flutter application.
+O **Age of Flutter** é uma aplicação educacional que utiliza técnicas de gamificação para ensinar programação e desenvolvimento de aplicativos. O usuário assume o papel de um aprendiz que evolui de nível à medida que domina os conceitos da disciplina de Desenvolvimento de Dispositivos Móveis. 
 
-A few resources to get you started if this is your first Flutter project:
+A proposta é aumentar a motivação intrínseca, promover a persistência diante de conteúdos complexos e fornecer feedback imediato por meio de mecânicas consagradas em jogos.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🎮 Mecânicas de Gamificação
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para garantir o engajamento e a retenção do aluno, o aplicativo implementa os seguintes elementos:
+
+* **Pontos de Experiência (XP):** Acumulados ao concluir fases e atividades, gerando um senso de progresso contínuo.
+* **Sistema de Níveis:** Representa a evolução do jogador, onde cada nível alcançado desbloqueia novos conteúdos e desafios.
+* **Badges e Conquistas (Medalhas):** Reconhecimento por marcos específicos, como finalizar um módulo ou gabaritar um quiz.
+* **Streaks (Sequências):** Recompensas para dias consecutivos de estudo, incentivando a frequência de acesso.
+* **Desbloqueio Progressivo:** Módulos avançados permanecem bloqueados até que o jogador cumpra os pré-requisitos necessários.
+
+## 📱 Estrutura e Telas
+
+A navegação foi desenhada para ser fluida e intuitiva, guiando o jogador diretamente para a ação:
+
+1. **Start Screen (Tela Inicial):** A porta de entrada da jornada. Contém o painel de login/cadastro e a opção de iniciar a missão.
+2. **Fase de Quiz:** A arena de desafios. Exibe o nível atual do jogador, barra de XP, quantidade de "vidas" e as
